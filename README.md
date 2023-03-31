@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ahmet
+### Hi there 👋, I'm Ahmet
 #### I am computer engineering student 
 ![I am computer engineering student ](https://github.com/ahmetbyrktrr/ahmetbyrktrr/blob/main/hangover-math.gif)
 
