@@ -4,7 +4,7 @@
 
 I'm 23 years old. I live in Istanbul. I'm learning new things every day.
 
-Skills: HTML / CSS / C++ / C# / JS
+Skills: HTML / CSS / C++ / C# / JS / SWIFT
 
 - 🔭 I’m currently working on this page. 
 
