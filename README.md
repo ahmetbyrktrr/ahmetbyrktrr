@@ -3,7 +3,7 @@
 
 I'm 24 years old. I live in Istanbul.
 
-Front-End Developer
+Front-End Developer &&
 IOS Developer
 
 
