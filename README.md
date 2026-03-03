@@ -3,12 +3,5 @@
 
 I'm 24 years old. I live in Istanbul.
 
-Front-End Developer &&
+Front-End Developer && JR Backend Developer
 IOS Developer
-
-
-
-
-![I am computer engineering student ](https://github.com/ahmetbyrktrr/ahmetbyrktrr/blob/main/hangover-math.gif)
-
-
